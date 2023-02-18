@@ -12,7 +12,7 @@ else{
   <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Car Rental Portal | My Booking</title>
+    <title>Đặt khách sạn | Booking</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -114,6 +114,9 @@ else{
                           <?php 
                         } else { ?>
                          <div class="vehicle_status"> <a href="#" class="btn outline btn-xs">Chưa nhận phòng</a>
+                          <div class="clearfix"></div>
+                        </div>
+                        <div class="vehicle_status"> <a href="#" class="btn outline btn-xs">Hủy đặt phòng</a>
                           <div class="clearfix"></div>
                         </div>
                         <?php 

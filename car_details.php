@@ -53,7 +53,7 @@ if(isset($_POST['submit']))
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Motorbike Rental|Chi tiết xe</title>
+  <title>Đặt khách sạn | Chi tiết khách sạn</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
